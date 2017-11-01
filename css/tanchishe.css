@@ -1,0 +1,24 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	background:skyblue;
+}
+.map{
+	width:900px;
+	height:900px;
+	border:1px solid #ccc;
+	margin:0 auto;
+	background:url(../timg.jpg) no-repeat;
+	background-size:cover;
+}
+.row{
+	overflow:hidden;
+}
+.block{
+	float:left;
+	overflow:hidden;
+	width:15px;
+	height:15px;
+}
